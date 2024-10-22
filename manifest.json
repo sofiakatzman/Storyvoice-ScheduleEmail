@@ -12,7 +12,9 @@
   "ui": "ui.html",
   "networkAccess": {
     "allowedDomains": [
-      "https://api.airtable.com"
+      "https://api.airtable.com",
+      "https://figma-airtable-server-c002f4b69d57.herokuapp.com",
+      "https://static.figma.com"
     ]
   }
 }
